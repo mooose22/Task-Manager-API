@@ -4,6 +4,7 @@ The Task Manager App is a web-based application designed to help users organize 
 
 Features
 Task Creation: Users can easily create new tasks by providing a title, description and other relevant details.
+
 Task Tracking: The app provides a centralized dashboard where users can view their tasks, track their progress, and mark tasks as completed.
 
 Tech Stack
